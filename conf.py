@@ -5,13 +5,13 @@ class vals():
     """
     define all the video parameters here
     """
-    fps=2
-    duration=time.strptime("00:10:00.0","%H:%M:%S.%f")
+    fps=4
+    duration=time.strptime("00:15:00.0","%H:%M:%S.%f")
     bitrate=320
     freq=45000
-    width=600
-    height=480
-    # size ???
+    width=800
+    height=600
+    size=15
         
     extensions = ['AVI',
                   'avi',

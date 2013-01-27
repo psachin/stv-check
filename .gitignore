@@ -1,6 +1,6 @@
 # stv-check/
 
-
+# ignore file extensions
 *~
 *.pyc
 *.AVI
@@ -20,5 +20,7 @@
 *.mov
 *.MOV
 
-
+# ignore files
+stratch
+test.py
 
