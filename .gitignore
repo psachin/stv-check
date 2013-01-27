@@ -1,0 +1,24 @@
+# stv-check/
+
+
+*~
+*.pyc
+*.AVI
+*.avi
+*.ogv
+*.OGV
+*.mp4
+*.MP4
+*.DAT
+*.dat
+*.MKV
+*.mkv
+*.vob
+*.VOB
+*.3gp
+*.3GP
+*.mov
+*.MOV
+
+
+
