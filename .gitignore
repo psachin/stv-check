@@ -19,8 +19,9 @@
 *.3GP
 *.mov
 *.MOV
+*.mp3
 
 # ignore files
-stratch
-test.py
-
+scratch.py
+test*.py
+hachoir-metadata-gtk

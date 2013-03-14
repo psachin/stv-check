@@ -1,0 +1,29 @@
+* stv-checker
+  Yet another metadata parser based on =avconv=
+
+** Download
+   
+   Clone this repo using
+
+   : git clone https://github.com/psachin/stv-check.git
+
+** Typical usage
+
+   : from metavideo import MetaVideo
+   : parse_video = MetaVideo('/path/to/video/file')
+   : print parse_video.duration()
+
+*** example
+
+   : from metavideo import MetaVideo
+   : parse_video = MetaVideo('/home/sachin/Videos/python-basics-tutorial.ogv')
+   : print parse_video.duration()
+
+    output
+    
+    : 00:11:40
+
+for more detail usage see =test.py= file.
+
+
+
